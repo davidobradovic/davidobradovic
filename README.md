@@ -15,13 +15,17 @@ Languages that i use is : Html5, Css3, Javascript, React.js & React Native. I kn
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-- 📫 How to reach me: </br>
-You can email me : <a href='mailto:obradovicdavid.code@gmail.com'>obradovicdavid.code@gmail.com</a> </br>
-Or write me on instagram : <a href='https://instagram.com/__dado.0'>Instagram</a>
+- 📫 <strong>How to reach me :</strong> </br>
+    You can email me : <a href='mailto:obradovicdavid.code@gmail.com'>obradovicdavid.code@gmail.com</a> </br>
+    Or write me on instagram : <a href='https://instagram.com/__dado.0'>Instagram</a>
 
-- 😄 Quotes that help me: </br>
-    “Misli dobro, pa će dobro i biti.” <strong>- Ivo Andric</strong>
+- 😄 <strong>Quotes that help me with focus on my life :</strong> </br>
+    “Think good, and it will be good.” <strong>- Ivo Andric</strong>
 
-- ⚡ Fun fact: </br>
+- 😁 <strong> Nicknames :</strong> </br>
+    dado </br>
+    amnesia
+ 
+- ⚡ <strong>Fun fact :</strong> </br>
 That i am self-taught developer </br>
 That i am coding 4/5 years
