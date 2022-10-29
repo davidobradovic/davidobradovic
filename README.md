@@ -3,7 +3,10 @@
 
 **David Obradovic** 
 
-Here are some ideas to get you started:
+<h1>About Me</h1>
+<p>I am David. I am 18 years old software engineer. My hobby is Website & Mobile application developer.
+Languages that i use is : Html5, Css3, Javascript, React.js & React Native. I know Wordpress, Mysql and Bootstrap too.
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
