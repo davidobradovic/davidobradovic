@@ -14,7 +14,8 @@ Languages that i use is : Html5, Css3, Javascript, React.js & React Native. I kn
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: </br>
-You can email me : <a href='mailto:obradovicdavid.code@gmail.com'>obradovicdavid.code@gmail.com</a>
+You can email me : <a href='mailto:obradovicdavid.code@gmail.com' style='color: #fff'>obradovicdavid.code@gmail.com</a>
+Or write me on instagram : <a href='https://instagram.com/__dado.0' style="color: purple">Instagram</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
