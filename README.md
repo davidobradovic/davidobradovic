@@ -4,13 +4,7 @@
 <p style="font-family: 'Courier New', Courier, monospace;">I am David. I am 18 years old software engineer. My hobby is Website & Mobile application developer. I am currently live in Pale, Bosnia and Herzegovina. Im started with coding before 4/5 years.
 </p>
 
-🔭<code>I’m currently working on mobile app development</code>
-
-<!-- - 🌱 I’m currently learning  -->
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-
+🔭<code>I’m currently working on software engineering</code>
 
 📫 <strong>How to reach me :</strong> </br>
 
@@ -21,12 +15,6 @@
 😄 <strong>Quotes that help me with focus on my life :</strong> </br>
 
 - “Think good, and it will be good.” <strong>- Ivo Andric</strong>
-
-
-😁 <strong> Nicknames :</strong> </br>
-
-- dado </br>
-- amnesia
 
  
 ⚡ <strong>Fun fact :</strong> </br>
@@ -41,3 +29,4 @@
 - CSS/CSS3 : <strong>4 years</strong> </br>
 - React.js : <strong>3 years</strong> </br>
 - React Native : <strong>2 and half year</strong> </br>
+- Node.js <strong>1 year</strong> </br>
