@@ -1,1 +1,6 @@
-MECARD:N:David Obradović;TEL:+123456789;;
+BEGIN:VCARD
+VERSION:3.0
+FN:David Obradović
+N:Obradović;David;;;
+TEL;TYPE=CELL:+123456789
+END:VCARD
